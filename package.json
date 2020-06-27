@@ -1,0 +1,26 @@
+{
+  "name": "domainify_cli",
+  "version": "1.1.0",
+  "description": "A next generation CLI to generate domain name for your next website",
+  "main": "domainify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Domain",
+    "Name",
+    "Generation",
+    "name",
+    "generator",
+    "domainify"
+  ],
+  "author": "Saad Hassan",
+  "license": "MIT",
+  "bin": {
+    "domainify": "./domainify.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^5.1.0"
+  }
+}
