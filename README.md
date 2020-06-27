@@ -6,7 +6,7 @@
 	</h1>
 </div>
 
-# Generate Domain Names in different formats for your upcoming website.
+Generate Domain Names in different formats for your upcoming website.
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg?style=for-the-badge&logo=appveyor)](#)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](#)
@@ -47,7 +47,12 @@ Use --help flag to see the list of available commands and their usage
 <div align="center">
 <img src="./images/help.png" alt="help">
 </div>
+
+Then run any command you need like this
+
+<div align="center">
 <img src="./images/usage.png" alt="usage">
+</div>
 
 ## Author
 You can get in touch with me on my LinkedIn Profile:
