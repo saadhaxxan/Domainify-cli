@@ -25,17 +25,28 @@
 - Generate All Domain Names and save to json file
 
 ##  INSTALLATION
+Install the CLI globally. 
 ### From Npm
 ```
 npm i -g domainify_cli
 ```
 ### From Github
 ```
-git clone 
+git clone https://github.com/saadhaxxan/Domainify-CLI.git
+cd Domainify-CLI
+node domainify <command> <name>
 ```
+## Usage
 
+Goto command prompt and run
+```
+domainify <command> <name>
+```
+Use --help flag to see the list of available commands and their usage
 
+<div align="center">
 <img src="./images/help.png" alt="help">
+</div>
 <img src="./images/usage.png" alt="usage">
 
 ## Author
