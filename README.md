@@ -30,7 +30,7 @@ npm i -g domainify_cli
 ```
 git clone https://github.com/saadhaxxan/Domainify-CLI.git
 cd Domainify-CLI
-node domainify <command> <name>
+node domainify.js <command> <name>
 ```
 ## Usage
 
